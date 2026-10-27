@@ -10,7 +10,7 @@
 <b>Frontend Developer:</b>
 
 
-<img src="https://skillicons.dev/icons?i=nodejs,python,lua&theme=dark" height="48" alt="Node.js, Python, Lua" />
+<img src="https://skillicons.dev/icons?i=react,vue,js,html,css,sass,figma&theme=dark" height="40" alt="React, Vue.js, JavaScript, HTML, CSS, SCSS and Figma" />
 
 <b>Backend Developer:</b>
 
