@@ -10,7 +10,7 @@ I’m White — I write backend code, handle frontend fixes, and create models.
 
 ## A little about me
 
-I’m mainly a backend developer — that’s where I focus most of my work. I can write frontend code too, but I mostly handle small fixes and adjustments rather than UI design. I’m also experienced with Blender: creating my own models from scratch, troubleshooting issues, and fixing assets. I know my way around Sollumz for FiveM.
+I’m mainly a backend developer that’s where I focus most of my work. I can write frontend code too, but I mostly handle small fixes and adjustments rather than UI design. I’m also experienced with Blender: creating my own models from scratch, troubleshooting issues, and fixing assets. I know my way around Sollumz for FiveM.
 
 ## My toolkit
 
