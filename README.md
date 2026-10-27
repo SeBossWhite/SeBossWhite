@@ -1,45 +1,48 @@
 <div align="center">
 
-# Hey, I’m White 👋
+**Frontend · Backend · 3D**
 
-**Backend Developer · Blender & FiveM Modeling**
+I’m White — I write backend code, handle frontend fixes, and create models.
 
-Coding the systems behind the scenes. Creating custom models.
-
-**Discord:** `se_boss_white`
+[Explore my repositories](https://github.com/SeBossWhite?tab=repositories) · [GitHub activity](https://github.com/SeBossWhite?tab=overview)
 
 </div>
 
 ## A little about me
 
-I’m mainly a backend developer — that’s where I put most of my focus. I can write frontend code too, but I mostly handle small fixes and adjustments rather than UI design.
-
-I also work extensively with Blender: creating custom models from scratch, troubleshooting issues, and fixing existing assets. I’m experienced with Sollumz for FiveM asset workflows.
+I’m mainly a backend developer — that’s where I focus most of my work. I can write frontend code too, but I mostly handle small fixes and adjustments rather than UI design. I’m also experienced with Blender: creating my own models from scratch, troubleshooting issues, and fixing assets. I know my way around Sollumz for FiveM.
 
 ## My toolkit
 
-**Backend & scripting**
-
-Node.js · Python · Lua
-
-**Frontend — code & fixes**
-
+**Frontend**  
 React · Vue · JavaScript · HTML · CSS · Sass
 
-**3D & FiveM**
+**Backend & scripting**  
+Node.js · Python · Lua
 
-Blender · Sollumz · Custom models · Asset troubleshooting & fixes
+**Design**  
+Figma · Blender · Sollumz · Modeling
 
-## Current project
+## Projects & past work
 
-### Atehra Projekt
+**Atehra Projekt**  
+Current project.
 
-## Previous projects
+**GOAT PVP**  
+Previous project.
 
-- **GOAT PVP**
-- **Winora Studio®**
-- **Atlas Crimelife**
+**Winora Studio®**  
+Previous project.
+
+**Atlas Crimelife**  
+Previous project.
 
 ## Contact
 
-You can reach me on Discord: **`se_boss_white`**
+Discord: **`se_boss_white`**
+
+---
+
+<div align="center">
+<sub><b>SeBossWhite</b> · coding. modeling. creating.</sub>
+</div>
