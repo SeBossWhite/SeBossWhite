@@ -1,40 +1,45 @@
 <div align="center">
 
-![White — coding, modeling, creating](./assets/profile-header.svg)
+# Hey, I’m White 👋
 
-**Frontend · Backend · 3D**
+**Backend Developer · Blender & FiveM Modeling**
 
-I’m White — I build interfaces, write code, and create models.
+Coding the systems behind the scenes. Creating custom models.
 
-[Explore my repositories](https://github.com/SeBossWhite?tab=repositories) · [GitHub activity](https://github.com/SeBossWhite?tab=overview)
+**Discord:** `se_boss_white`
 
 </div>
 
 ## A little about me
 
-From the way an interface feels to the code behind it, I enjoy bringing the visual and technical sides of a project together. My toolkit spans web development, scripting, and design.
+I’m mainly a backend developer — that’s where I put most of my focus. I can write frontend code too, but I mostly handle small fixes and adjustments rather than UI design.
+
+I also work extensively with Blender: creating custom models from scratch, troubleshooting issues, and fixing existing assets. I’m experienced with Sollumz for FiveM asset workflows.
 
 ## My toolkit
 
-**Frontend**  
-React · Vue · JavaScript · HTML · CSS · Sass
+**Backend & scripting**
 
-**Backend & scripting**  
 Node.js · Python · Lua
 
-**Design**  
-Figma · Modeling
+**Frontend — code & fixes**
 
-## Projects & past work
+React · Vue · JavaScript · HTML · CSS · Sass
 
-**Winora Studio®**  
-Current project.
+**3D & FiveM**
 
-**GOAT PVP**  
-Previous project.
+Blender · Sollumz · Custom models · Asset troubleshooting & fixes
 
----
+## Current project
 
-<div align="center">
-<sub><b>SeBossWhite</b> · coding. modeling. creating.</sub>
-</div>
+### Atehra Projekt
+
+## Previous projects
+
+- **GOAT PVP**
+- **Winora Studio®**
+- **Atlas Crimelife**
+
+## Contact
+
+You can reach me on Discord: **`se_boss_white`**
