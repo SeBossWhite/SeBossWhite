@@ -35,16 +35,10 @@ Figma · Blender
   <tr>
     <td align="center" width="120"><img src="./assets/atehra.png" height="100" alt="Atehra Projekt logo" /></td>
     <td valign="middle"><strong>Atehra Projekt</strong><br />Current project.</td>
-  </tr>
-  <tr>
     <td align="center" width="120"><img src="./assets/goat.png" height="100" alt="GOAT PVP logo" /></td>
     <td valign="middle"><strong>GOAT PVP</strong><br />Previous project.</td>
-  </tr>
-  <tr>
     <td align="center" width="120"><img src="./assets/winora.png" height="100" alt="Winora Studio logo" /></td>
     <td valign="middle"><strong>Winora Studio®</strong><br />Previous project.</td>
-  </tr>
-  <tr>
     <td align="center" width="120"><img src="./assets/atlas.png" height="100" alt="Atlas Crimelife logo" /></td>
     <td valign="middle"><strong>Atlas Crimelife</strong><br />Previous project.</td>
   </tr>
