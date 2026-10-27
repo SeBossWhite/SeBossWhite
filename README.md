@@ -17,25 +17,39 @@ I’m mainly a backend developer that’s where I focus most of my work. I can w
 **Frontend**  
 React · Vue · JavaScript · HTML · CSS · Sass
 
+<img src="./assets/frontend.svg" height="40" alt="React, Vue, JavaScript, HTML, CSS and Sass" />
+
 **Backend & scripting**  
 Node.js · Python · Lua
 
+<img src="./assets/backend.svg" height="40" alt="Node.js, Python and Lua" />
+
 **Design**  
-Figma · Blender · Sollumz · Modeling
+Figma · Blender
+
+<img src="./assets/design.svg" height="40" alt="Figma and Blender" />
 
 ## Projects & past work
 
 **Atehra Projekt**  
 Current project.
 
+<img src="./assets/atehra.png" height="100" alt="Atehra Projekt logo" />
+
 **GOAT PVP**  
 Previous project.
+
+<img src="./assets/goat.png" height="100" alt="GOAT PVP logo" />
 
 **Winora Studio®**  
 Previous project.
 
+<img src="./assets/winora.png" height="100" alt="Winora Studio logo" />
+
 **Atlas Crimelife**  
 Previous project.
+
+<img src="./assets/atlas.png" height="100" alt="Atlas Crimelife logo" />
 
 ## Contact
 
