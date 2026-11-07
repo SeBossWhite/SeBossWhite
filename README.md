@@ -4,7 +4,7 @@
 
 I’m White — I write backend code, handle frontend fixes, and create models.
 
-[Explore my repositories](https://github.com/SeBossWhite?tab=repositories) · [GitHub activity](https://github.com/SeBossWhite?tab=overview)
+[Explore my repositories](https://github.com/SeBossWhite?tab=repositories) · [Developer Portfolio](https://sebosswhite.github.io/)
 
 </div>
 
